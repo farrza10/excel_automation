@@ -1,0 +1,3 @@
+# Concatinating customer_ids with country
+="'"&"AZ" & I2 &"'"& ","
+
